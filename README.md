@@ -1,9 +1,11 @@
 <h2>
 👋 Hello there!  
 </h2> 
+<a href="https://www.linkedin.com/in/nunodccosta/" target="_blank"> 
 <h1>
 Nuno Costa
 </h1>
+</a>
 I'm a passionate software developer with still only a year of hands-on experience in the industry. I'm on a mission to continually learn and grow while contributing my skills to innovative projects and making a positive impact in the tech world.
 
 🚀 What I Bring to the Table:
