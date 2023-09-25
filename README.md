@@ -1,35 +1,25 @@
-<h2>
-👋 Hello there!  
-</h2> 
-<a href="https://www.linkedin.com/in/nunodccosta/" target="_blank"> 
-<h1>
+
+ 
+<h4 align="center">
+👋 Hello there!   
+</h4> 
+
+<h1 margin-bottom="fit-content"; align="center">
 Nuno Costa
-</h1>
-</a>
-I'm a passionate software developer with still only a year of hands-on experience in the industry. I'm on a mission to continually learn and grow while contributing my skills to innovative projects and making a positive impact in the tech world.
-
-🚀 What I Bring to the Table:
-
- 💻 Proficiency in Vue.js, Laravel and Sass.
- 🧠 Strong problem-solving abilities and the will to turn complex challenges into elegant solutions.
- 🤝 Collaborative team player with excellent communication skills.
- 📚 A perpetual learner who thrives in dynamic, ever-evolving environments.
-
-💡 My Journey So Far:
-In my short but exciting career, I've had the privilege of working for YouOn, building impressive user experiences with flawless designs. This experience has not only enhanced my technical prowess but also taught me the importance of adaptability and resilience in the face of new challenges.
-
-🔭 What's Next:
-As I embark on the next chapter of my career, I'm eager to evolve even further in proficiency to achieve my personal goals. Whether it's diving deeper into SQL or exploring new horizons for a full-stack experience, I'm committed to pushing the boundaries of what's possible in the software development realm.
-
-🌟 Why Connect With Me:
-I'm always open to connecting with fellow tech enthusiasts, mentors, and professionals who share a passion for innovation and growth. Let's connect, share insights, and possibly collaborate on exciting projects!
-
-📧 How to Reach Me:
-Feel free to reach out to me via LinkedIn messages or at nunodccosta@gmail.com.
-
-Let's strategize like grandmasters and move the pieces of technology forward together! ♟️
+</h1><br>
+<p>I'm a passionate software developer with still only a year of hands-on experience in the industry. I'm on a mission to continually learn and grow while contributing my skills to innovative projects and making a positive impact in the tech world.<p><br>
+ 
+<div align="center" style="display: inline_block">
+ <h2>Skills:<h2>
+ <br>
+  <img align="center" alt="NunoCosta-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="NunoCosta-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="NunoCosta-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="NunoCosta-VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="NunoCosta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="NunoCosta-React-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="NunoCosta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="NunoCosta-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+</div>
 
 
-<style>
-  
-</style>
