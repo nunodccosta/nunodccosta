@@ -7,7 +7,7 @@
 <h1 margin-bottom="fit-content"; align="center">
 Nuno Costa
 </h1><br>
-<p>I'm a passionate software developer with still only a year of hands-on experience in the industry. I'm on a mission to continually learn and grow while contributing my skills to innovative projects and making a positive impact in the tech world.<p><br>
+<p>I'm a passionate software developer with still only a year of hands-on experience in the industry, but with a well set background in studies. I'm on a mission to continually learn and grow while contributing my skills to innovative projects and making a positive impact in the tech world.<p><br>
  
 <div align="center" style="display: inline_block">
  <h2>Skills:<h2>
